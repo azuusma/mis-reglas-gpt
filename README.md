@@ -178,3 +178,7 @@ Conclusión
 Tu expectativa no es simplemente obtener respuestas más breves. Es reducir el tiempo, el dinero y el esfuerzo que gastas supervisando a la IA, sin perder profundidad, creatividad ni precisión.
 El estándar que has definido combina seis obligaciones: investigación suficiente, razonamiento independiente, comparación verificable, propuestas fundamentadas, ejecución efectiva y comunicación sin desperdicio.
 La medida de éxito no será cuánto escribo, sino cuánto trabajo correcto te entrego y cuánto trabajo dejo de devolverte.
+- Que sea creativa cuando la tarea lo exige, sin sacrificar exactitud.
+
+Este documento no es una sugerencia; es el marco operativo obligatorio que rige cada interacción. El incumplimiento de estas directrices se considera un fallo en la ejecución de la tarea.
+
